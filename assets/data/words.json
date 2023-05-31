@@ -1,0 +1,141 @@
+[
+  { "id": "1",
+    "dictionaryName": "English",
+    "learnWords": {
+    "id": "1",
+    "newWord": "to duck",
+    "additionalWords": [
+      {
+        "id": "1", 
+        "additionalWord": "to bend"
+      },
+      {
+        "id": "2", 
+        "additionalWord": "to crouch"
+      },
+      {
+        "id": "3", 
+        "additionalWord": "to hunch"
+      }
+    ]
+  }},
+
+  
+  {
+    "id": "1",
+    "newWord": "to duck",
+    "additionalWords": [
+      {
+        "id": "1", 
+        "additionalWord": "to bend"
+      },
+      {
+        "id": "2", 
+        "additionalWord": "to crouch"
+      },
+      {
+        "id": "3", 
+        "additionalWord": "to hunch"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "newWord": "frown",
+    "additionalWords": [
+      {
+        "id": "1", 
+        "additionalWord": "scowl"
+      },
+      {
+        "id": "2", 
+        "additionalWord": "glare"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "newWord": "flawless",
+    "additionalWords": [
+      {
+        "id": "1", 
+        "additionalWord": "perfect"
+      },
+      {
+        "id": "2", 
+        "additionalWord": "unblemished"
+      },
+      {
+        "id": "3", 
+        "additionalWord": "unmarked"
+      },
+      {
+        "id": "4", 
+        "additionalWord": "intact"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "newWord": "embroil",
+    "additionalWords": [
+      {
+        "id": "1",
+        "additionalWord": "involve"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "newWord": "eligible",
+    "additionalWords": [
+      {
+        "id": "1", 
+        "additionalWord": "entitled"
+      },
+      {
+        "id": "2", 
+        "additionalWord": "permitted"
+      },
+      {
+        "id": "3", 
+        "additionalWord": "allowed"
+      },
+      {
+        "id": "4", 
+        "additionalWord": "qualified"
+      },
+      {
+        "id": "5", 
+        "additionalWord": "acceptable"
+      },
+      {
+        "id": "6", 
+        "additionalWord": "suitable"
+      }
+    ]    
+  }
+]
+
+
+[
+  {"dictionaryName": "dictionaryName",
+  "dictionaryId": 1,
+  "learnWords": [{
+    "newWord": "newWordText",
+    "newWordId": 1,
+    "additionalWords": [
+      { "additionalWordId": 1, "additionalWord": "newSynonymText" },
+      { "additionalWordId": 1, "additionalWord": "newSynonymText" },
+      { "additionalWordId": 1, "additionalWord": "newSynonymText" },
+      { "additionalWordId": 1, "additionalWord": "newSynonymText" }
+]},
+  {
+    "newWord": "newWordText",
+    "newWordId": 1,
+    "additionalWords": [
+      { "additionalWordId": 1, "additionalWord": "newSynonymText" },
+      { "additionalWordId": 1, "additionalWord": "newSynonymText" },
+      { "additionalWordId": 1, "additionalWord": "newSynonymText" },
+      { "additionalWordId": 1, "additionalWord": "newSynonymText" }
+]}]}]
